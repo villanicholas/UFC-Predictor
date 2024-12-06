@@ -1,6 +1,6 @@
 # UFC-Predictor
 
-https://www.youtube.com/watch?v=qM7PbgJr_Uw
+Demo Link: https://www.youtube.com/watch?v=qM7PbgJr_Uw
 
 UFC Fight Winner Prediction Script
 This project predicts the winner between two UFC fighters using a pre-trained Gradient Boosting model based on fighter statistics.
